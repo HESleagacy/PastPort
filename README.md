@@ -22,3 +22,4 @@ to fetch and display **important global events** that happened on a given date.
 - **python-dotenv** – manage API keys securely
 
 ---
+<img width="1366" height="697" alt="Screenshot from 2025-09-15 20-12-19" src="https://github.com/user-attachments/assets/c40b58f3-36f3-4161-9682-404fa23d28d8" />
