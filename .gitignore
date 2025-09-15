@@ -1,0 +1,66 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Byte-compiled / optimized / DLL files
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# =====================
+# Environment & Secrets
+# =====================
+.env
+*.env
+.env.*
+
+# =====================
+# Streamlit
+# =====================
+.streamlit/
+# User’s session cache
+.streamlit/secrets.toml
+
+# =====================
+# Jupyter / IPython
+# =====================
+.ipynb_checkpoints
+*.ipynb
+
+# =====================
+# Logs
+# =====================
+*.log
+*.out
+*.err
+
+# =====================
+# System Files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDE / Editors
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# Distribution / Packaging
+# =====================
+build/
+dist/
+*.egg-info/
+.eggs/
+
